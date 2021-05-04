@@ -7,6 +7,7 @@ parse==1.19.0
 parse-type==0.5.2
 pluggy==0.13.1
 py==1.10.0
+pyassert==0.4.2
 pyparsing==2.4.7
 six==1.15.0
 toml==0.10.2
